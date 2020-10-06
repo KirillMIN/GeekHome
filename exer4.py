@@ -1,4 +1,4 @@
-value = int(input("input value"))
+value = int(input(" input value"))
 max_val = 0
 number_move = 10
 while value > 0:
