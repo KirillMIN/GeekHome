@@ -5,7 +5,7 @@ profit_per_person = 0
 if proceeds > costs:
     print("Прибыль")
     profitability = (proceeds - costs) / proceeds
-    print(" Рентабилность выручки:", profitability)
+    print("Рентабилность выручки:", profitability)
 else:
     print("Убытки")
 value = int(input("Введите численность персонала:"))

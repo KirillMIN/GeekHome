@@ -1,4 +1,4 @@
-seconds = int(input(" input seconds: "))
+seconds = int(input("input seconds: "))
 size_of_time = 60
 hours = seconds // size_of_time ** 2
 minutes = (seconds - hours * size_of_time ** 2) // size_of_time
